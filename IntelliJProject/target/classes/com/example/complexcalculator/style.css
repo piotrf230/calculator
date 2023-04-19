@@ -1,0 +1,17 @@
+Label, Button,VBox {
+    -fx-font-family: Consolas;
+    -fx-font-size: 16px;
+}
+
+Button, Label {
+    -fx-pref-height: 100px;
+    -fx-pref-width: 1000px;
+}
+
+VBox {
+    -fx-background-color: black;
+}
+
+Label {
+    -fx-text-fill: white;
+}
